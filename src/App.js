@@ -65,9 +65,7 @@ function App() {
         <Quotes />
 
         <Footer>
-          <p>
-            Made with love by <a href='http://bio.link/timonwa'>Timonwa</a>
-          </p>
+          <p>Made with love by Öz</p>
         </Footer>
       </div>
     </ThemeProvider>
